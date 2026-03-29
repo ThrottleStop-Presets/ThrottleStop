@@ -23,7 +23,7 @@ Collection of custom configurations, guides, presets, and optimized settings for
 6. Fine-tune the parameters based on your specific hardware and thermal limits
 
 <div align="center">
-  <a href="#" target="_blank" rel="noopener">
+  <a href="https://throttlestop-presets.github.io/ThrottleStop/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Access_NOW-00A2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Access Community Resources" width="350"
          style="border-radius:8px;" />
